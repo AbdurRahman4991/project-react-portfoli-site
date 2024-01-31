@@ -1,9 +1,9 @@
-
+import Nav from "../component/Nav";
 
 function Blog() {
     return (
         <div>
-            <h1>Blog page</h1>
+            <Nav />
         </div>
     );
 }

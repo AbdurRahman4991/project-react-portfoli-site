@@ -1,9 +1,9 @@
 
-
+import Nav from "../component/Nav";
 function Service() {
     return (
        <div>
-        <h1>Service page</h1>
+        <Nav />
        </div> 
     );
 }
