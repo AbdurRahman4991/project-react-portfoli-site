@@ -1,0 +1,62 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    padding: 0px;
+    margin: 0px;
+    width: 60px;
+}
+.service{
+    width: 100%;
+    height: auto;
+    margin: 5px;
+    background: palegoldenrod;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.serviceIcon{
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    border-radius: 100%;
+    margin: auto;
+    color: darkorange;
+    font-size: 50px;
+}
+
+p{
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 300;
+    color: #000000;
+}
+
+h3{
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 700;
+    color: #000;
+}
+
+h4{
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 700;
+    color: #000000;
+    margin-top: 15px;
+}
+
+.navItem{
+    text-decoration: none;
+    color:darkorange;
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 400;
+    padding:0px !important ;
+    margin: 0px;
+}
