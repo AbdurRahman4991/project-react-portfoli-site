@@ -1,9 +1,13 @@
-import Nav from "../component/Nav";
+import Navigation from "../component/Navigation";
+import BlogPage from "../component/Blog";
+import Footer from "../component/Footer";
 
 function Blog() {
     return (
         <div>
-            <Nav />
+            <Navigation />
+            <BlogPage />
+            <Footer />
         </div>
     );
 }

@@ -19,17 +19,17 @@ function About() {
                     <Col md="4">
                         <img src={Image} alt="" />
                         <h4>Hi Cycle</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p style={{textAlign:'justify'}}>Lorem ipsum dolor sit amet consectetur adipisicing elitLorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </Col>
                     <Col md="4">
                         <img src={Image1} alt="" />
                         <h4>Hero Cycle</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p style={{textAlign:'justify'}}>Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </Col>
                     <Col md="4">
                         <img src={Image2} alt="" />
                         <h4>Nion Cycle</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p style={{textAlign:'justify'}}>Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </Col>
                 </Row>
             </Container>

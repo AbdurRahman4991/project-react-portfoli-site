@@ -1,9 +1,14 @@
 
-import Nav from "../component/Nav";
+import Navigation from "../component/Navigation";
+import ServicePage from '../component/Service';
+import Footer from "../component/Footer";
+
 function Service() {
     return (
        <div>
-        <Nav />
+            <Navigation />                  
+            <ServicePage />           
+            <Footer />
        </div> 
     );
 }

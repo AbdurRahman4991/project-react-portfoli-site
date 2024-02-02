@@ -1,19 +1,19 @@
 
-import Nav from "../component/Nav";
+import Navigation from "../component/Navigation";
 import About from "../component/About"
-import Carosal from "../component/Carosal";
+ import Carosal from "../component/Carosal";
 import Footer from "../component/Footer";
 import Service from "../component/Service";
 import Contact from "../component/Contact";
 function Home() {
     return(
-        <div>
-           <Nav />           
-            <Carosal />
+        <div>          
+           <Navigation />           
+            <Carosal /> 
             <About />
             <Service />
             <Contact />
-           <Footer />
+           <Footer /> 
         </div>
     )
 }

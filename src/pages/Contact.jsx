@@ -1,9 +1,13 @@
 
-import Nav from "../component/Nav";
+import Navigation from "../component/Navigation";
+import ContactPage from '../component/Contact';
+import Footer from "../component/Footer";
 function Contact() {
     return (
         <div>
-            <Nav />
+            <Navigation />
+            <ContactPage />
+            <Footer />
         </div>
     );
 }

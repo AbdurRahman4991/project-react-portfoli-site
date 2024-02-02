@@ -1,9 +1,15 @@
 
-import Nav from "../component/Nav";
+import Navigation from "../component/Navigation";
+import AboutUs from "../component/About";
+import Footer from "../component/Footer";
+
+
 function About() {
     return (
         <div>
-            <Nav />
+          <Navigation />
+         <AboutUs />
+          <Footer />
         </div>
     );
 }

@@ -8,7 +8,7 @@ function Service() {
             <Row className="">
                     <Col>
                         <h3>Our Service</h3>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum impedit facere ipsa aspernatur vel quidem suscipit optio aliquid. Aliquam totam quas reprehenderit soluta. Tenetur, voluptates repudiandae necessitatibus laborum aspernatur tempore. </p>
+                        <p style={{textAlign:'justify'}}> Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum impedit facere ipsa aspernatur vel quidem suscipit optio aliquid. Aliquam totam quas reprehenderit soluta. Tenetur, voluptates repudiandae necessitatibus laborum aspernatur tempore. </p>
 
                     </Col>
                 </Row>
@@ -18,7 +18,7 @@ function Service() {
                             <div className="serviceIcon">
                                 <BiAccessibility className="my-4" />
                             </div>
-                            <p className="mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, voluptatum, qui doloremque quos blanditiis consequuntur dolores deserunt quis ut aut velit vero totam veniam.</p>
+                            <p className="mt-3" style={{textAlign:'justify'}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, voluptatum, qui doloremque quos blanditiis consequuntur dolores deserunt quis ut aut velit vero totam veniam.</p>
                         </div>
                     </Col>
                     <Col md="4">
@@ -26,7 +26,7 @@ function Service() {
                         <div className="serviceIcon">
                                 <BiAccessibility className="my-4" />
                             </div>
-                            <p className="mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, voluptatum, qui doloremque quos blanditiis consequuntur dolores deserunt quis ut aut velit vero totam veniam.</p>
+                            <p className="mt-3" style={{textAlign:'justify'}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, voluptatum, qui doloremque quos blanditiis consequuntur dolores deserunt quis ut aut velit vero totam veniam.</p>
                         
                         </div> 
                     </Col>
@@ -35,7 +35,7 @@ function Service() {
                     <div className="serviceIcon">
                                 <BiAccessibility className="my-4" />
                             </div>
-                            <p className="mt-3 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, voluptatum, qui doloremque quos blanditiis consequuntur dolores deserunt quis ut aut velit vero totam veniam.</p>
+                            <p className="mt-3" style={{textAlign:'justify'}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, voluptatum, qui doloremque quos blanditiis consequuntur dolores deserunt quis ut aut velit vero totam veniam.</p>
                         
                     </div> 
                     </Col>
