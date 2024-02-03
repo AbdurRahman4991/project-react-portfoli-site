@@ -4,7 +4,7 @@ import { BiAccessibility } from "react-icons/bi";
 function Service() {
     return (
         <div>
-            <Container className="mt-5">
+            <Container className="mt-5 topSpace">
             <Row className="">
                     <Col>
                         <h3>Our Service</h3>

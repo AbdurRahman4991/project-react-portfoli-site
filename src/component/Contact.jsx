@@ -8,7 +8,7 @@ import { Container } from 'react-bootstrap';
 function Contact() {
     return (
         <div>
-            <Container className='mt-5 m-auto'>
+            <Container className='m-auto topSpace '>
                 <Row>
                    <h3 className='text-center'>Contact us</h3>
                     <Form className='text-center mt-4'>

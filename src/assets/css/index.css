@@ -83,6 +83,8 @@ h3 img{
     padding: 0px;
     margin: 0px;
     position: relative;
+    text-align: center;
+    color: #f9f9f9;
 }
 
 .overlay{
@@ -90,5 +92,25 @@ h3 img{
     height: 50rem;
     position: absolute;
     top:0;
-    background-color: rgb(red, green, blue);
+    background-color:  rgba(26, 32, 30, 0.212);
+    color: #f5f5f5;
+    padding-top: 20rem;
+    margin: auto;
+}
+
+.topSpace{
+    padding-top: 110px !important;
+}
+
+.content-data{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    
+    color: #f9f9f9;
+    font-weight: 600;  
+}
+
+.todo{
+    cursor: pointer !important;
 }

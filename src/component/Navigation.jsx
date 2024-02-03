@@ -21,7 +21,7 @@ function Navigation() {
             <Nav.Link className='navItem' as={Link} to="/contact">Contact</Nav.Link>
             <Nav.Link className='navItem' as={Link} to="/blog">Blog</Nav.Link>
             <NavDropdown  className='text-whit' title="Dropdown" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
+              <NavDropdown.Item as={Link} to="/todo">To Do </NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
                 Another action
               </NavDropdown.Item>

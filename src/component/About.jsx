@@ -6,7 +6,7 @@ import Image1 from '../assets/images/slide3.jpg'
 function About() {
     return (
         <div>
-            <Container  className="mt-5 text-center ">
+            <Container  className="text-center topSpace">
                 <Row className='m-auto'>
                     <Col md='8' className='m-auto'>
                         <h3>About us</h3>

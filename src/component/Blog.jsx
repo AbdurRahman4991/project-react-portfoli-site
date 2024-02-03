@@ -3,8 +3,8 @@ import BlogImg from '../assets/images/blog.jpg'
 function Blog() {
     return (
         <div>
-            <Container>
-                <Row className='mt-5'>
+            <Container className='topSpace'>
+                <Row >
                     <Col md='6'>
                         <img style={{width:'100%'}} src={BlogImg} alt="" />
                     </Col>

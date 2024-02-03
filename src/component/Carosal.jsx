@@ -52,8 +52,11 @@ function Carosal() {
                       <h3>
                         <img src={cycle1} alt="w-100"  />
                         <div className="overlay">
-                          <h2>WELCOM TO OUR CYCLE MART</h2>
+                          <div className="content-data">
+                          <span>WELCOM TO OUR CYCLE MART</span>
                           <p>Owl carosal dummy text </p>
+                          </div>
+
                         </div>
                         </h3>
                       
